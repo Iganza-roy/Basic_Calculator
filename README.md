@@ -2,6 +2,7 @@
 
 A simple web-based calculator that performs basic math operations. Built using pure HTML, CSS, and JavaScript.
 
+
 ## Features
 - Basic math operations: addition, subtraction, multiplication, and division
 - Clear and user-friendly interface
